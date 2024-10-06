@@ -131,6 +131,3 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to replace `YOUR_USERNAME` and `YOUR_TOKEN_MINT_ADDRESS` with your actual GitHub username and token mint address. You can also modify any sections to better fit your project’s details or add more specific instructions as needed!
