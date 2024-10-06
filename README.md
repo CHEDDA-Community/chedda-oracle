@@ -23,11 +23,9 @@ This API server provides an endpoint to retrieve the USD value of a specified to
 
 ## Features
 
-- Fetch the USD value of a specified token from the Solana blockchain.
-- Retrieve the token symbol using the Metaplex SDK.
-- Connect to the Solana mainnet using `@solana/web3.js`.
-- Logging capabilities using `tslog`.
-- Graceful shutdown handling for the server.
+- Fetches token prices from both Jupiter and Raydium.
+- Calculates the average price with statistical validation.
+- Handles errors gracefully and logs them for debugging.
 
 ## Getting Started
 
