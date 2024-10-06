@@ -1,7 +1,3 @@
-Here’s a detailed README for your Solana API server that retrieves the USD value and token metadata. This README includes sections for features, installation, usage, and more.
-
----
-
 # CHEDDA Oracle API Server
 
 This API server provides an endpoint to retrieve the USD value of a specified token contract address on the Solana blockchain, along with the token's symbol using the Metaplex SDK.
